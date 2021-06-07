@@ -1,0 +1,14 @@
+-> auto increment id//
+
+-> * -> fady  DONE
+
+-> outdetais -> 3 fiters 
+NAME - UNIT - DATE
+
+-> out repdetais -> 2 item & unit
+
+l
+
+stock	= byzwd 3l rtstock
+	= byn2s ml res
+	= 
